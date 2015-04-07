@@ -1,0 +1,10 @@
+mkdir
+cd
+git init
+touch Readme.txt 
+git status
+git commit -m "Add Readme.txt"
+git remote add origin https://github.com/emmanuelvelanganni/xsysys_website.git
+git remote -v
+push
+

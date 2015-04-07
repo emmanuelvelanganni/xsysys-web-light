@@ -1,0 +1,47 @@
+{
+  "name": "xsysys-website",
+  "version": "1.0.0",
+  "description": "A grunt project for website",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emmanuelvelanganni/xsysys-website.git"
+  },
+  "keywords": [
+    "xsysys",
+    "website",
+    "xsysys",
+    "addresss",
+    "xsysys",
+    "technologies",
+    "xsysys",
+    "software",
+    "xsysys",
+    "catch",
+    "app",
+    "xsysys",
+    "iphone",
+    "apps",
+    "xsysys",
+    "projects"
+  ],
+  "author": "Emmanuel V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmanuelvelanganni/xsysys-website/issues"
+  },
+  "homepage": "https://github.com/emmanuelvelanganni/xsysys-website",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^2.2.0",
+    "grunt-contrib-jshint": "^0.11.0"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^2.2.0",
+    "grunt-contrib-jshint": "^0.11.0"
+  }
+}

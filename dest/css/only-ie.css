@@ -1,0 +1,6 @@
+.autoPadDiv {
+	width:100%!important;
+	height:100%!important;
+	-moz-box-sizing:border-box!important;
+	     box-sizing:border-box!important;
+}

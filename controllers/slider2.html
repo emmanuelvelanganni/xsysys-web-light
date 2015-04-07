@@ -1,0 +1,66 @@
+<script src="src/js/vendor/jquery-1.11.1.min.js"></script>
+	<!--<script src="src/js/vendor/jquery.cycle.all.js"></script>-->
+<script src="src/js/vendor/jquery.cycle2.min.js"></script>
+<script src="src/js/vendor/jquery.cycle2.pager.min.js"></script>
+	<style>
+		.slide-pointer-block {
+			display:flex;
+			background:transparent;
+			width:199px;
+			height:43px;
+			flex-flow:row nowrap;
+			justify-content:space-between;
+			align-items:center;
+			margin:0 auto;
+			margin-top:-25px;
+			z-index:1000000;
+			position:relative;
+		}
+		.slide-pointer {
+			background:rgb(255,211,0);
+			height:inherit;
+			width:43px;
+			border-radius:13px;
+			text-align:center;
+			line-height:43px;
+			color:#ffffff;
+			font-family: Helvetica Neue, Arial, Sans-serif;
+			font-weight:bold;
+			font-size:26px;
+			font-size:2.6rem;
+		}
+		.slide-pointer.slide-active {
+			background: rgb(255,185,0);
+			background:-webkit-linear-gradient(rgb(255,211,0),rgb(55,51,48));
+			background:-0-linear-gradient(rgb(255,211,0),rgb(55,51,48));
+			background:-moz-linear-gradient(rgb(255,211,0),rgb(55,51,48));
+			background:linear-gradient(rgb(255,211,0),rgb(55,51,48));
+		}
+		.ie .slide-pointer-block{
+			display:block;
+		}
+		.ie .slide-pointer{
+			display:block;
+			margin-right:9px;
+			float:left;
+		}
+		.ie .slide-pointer:after{
+			clear:both;
+		}
+		.ie .slide-pointer.only-ie {
+			margin-right:0px;
+		}
+	</style>
+	<div class="cycle-slideshow" 
+		data-cycle-fx=scrollHorz
+		data-cycle-timeout=2000
+		data-cycle-pager=".example-pager"
+		>
+		<!-- empty element for pager links -->
+		<div class="cycle-pager"></div>
+		<img src="http://malsup.github.io/images/p1.jpg">
+		<img src="http://malsup.github.io/images/p2.jpg">
+		<img src="http://malsup.github.io/images/p3.jpg">
+		<img src="http://malsup.github.io/images/p4.jpg">
+	</div>
+	<div class="example-pager"></div>

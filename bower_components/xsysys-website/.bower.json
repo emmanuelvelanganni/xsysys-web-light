@@ -1,0 +1,13 @@
+{
+  "name": "xsysys-website",
+  "homepage": "https://github.com/emmanuelvelanganni/xsysys-website",
+  "_release": "a7c7c7c9ae",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a7c7c7c9aeee558547014e9314cb8cb200e733e4"
+  },
+  "_source": "git://github.com/emmanuelvelanganni/xsysys-website.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/emmanuelvelanganni/xsysys-website.git"
+}

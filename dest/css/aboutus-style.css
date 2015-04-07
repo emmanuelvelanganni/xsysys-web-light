@@ -1,0 +1,665 @@
+#slider-in-aboutus-page .lead_space_head {
+	width:100%;
+	height:inherit;
+	padding:0px;
+	margin:0px;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+}
+#slider-in-aboutus-page .lead_space_head .xsysys-static-slide {
+	width:100%;
+	height:inherit;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	margin:0 auto;
+	padding:0px;
+	background-image:url(../../images/xsysys.slide.evquery/aboutus/slide1.jpg);
+	background-attachment:scroll;
+	background-position:0 0;
+	background-repeat:no-repeat;
+}
+#slider-in-aboutus-page .lead_space_head .xsysys-static-slide .xsysys-slide-holder {
+	width:940px;
+	width:94.0rem;
+	height:380px;
+	height:38.0rem;
+	vertical-align:middle;
+	background:transparent;
+	margin:0px auto;
+	padding:0px;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+}
+#slider-in-aboutus-page .lead_space_head .xsysys-static-slide .xsysys-slide-holder img {
+	width:940px;
+	width:94.0rem;
+	height:380px;
+	height:38.0rem;
+	vertical-align:middle;
+	margin:0px;
+	padding:0px;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+}
+.aboutus-content-block {
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	min-height:1094px;
+	min-height:109.4rem; /*1154/10 = 115.4*/
+	height:auto;
+	width:inherit;
+	background:-webkit-linear-gradient(#fdfdfd, #fefefe 30%, #ffffff 50%);
+	background:-moz-linear-gradient(#fdfdfd, #fefefe 30%, #ffffff 50%);
+	background:-o-linear-gradient(#fdfdfd, #fefefe 30%, #ffffff 50%);
+	background:linear-gradient(#fdfdfd, #fefefe 30%, #ffffff 50%);
+	margin:0px 0px 30px 0px;
+	margin:0rem 0rem 3.0rem 0rem;
+	padding:0px;
+}
+
+.aboutus-content-block  .center-content {
+	width:inherit;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	height:350px;
+	height:35.0rem;
+	margin:0px;
+	padding:0px;
+}
+.aboutus-content-block  .content-desc {
+	width:inherit;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	min-height:301px;
+	min-height:30.1rem;
+	height:auto;
+	margin:0px;
+	padding:0px;
+	background:#eacec2;
+	background:rgba(234,206,194,0.5);
+}
+.aboutus-content-block  .marketing-block {
+	width:inherit;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	height:443px;
+	height:44.3rem;
+	background:silver;
+	margin:0px;
+	padding:0px;
+	background-image:url('../../images/xsysys-adv-block/xsysys-adv-background.png');
+	background-attachment:scroll;
+	background-position:0 0;
+	background-repeat:repeat-x;
+}
+.aboutus-content-block  .container-full-width {
+	width:940px;
+	width:94.0rem;
+	height:inherit;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	padding:0px;
+	margin:0px auto;
+}
+.aboutus-content-block  .center-content .container-full-width {
+	padding-bottom:0px;
+}
+.aboutus-content-block  .content-desc .container-full-width {
+	padding:30px 0px 30px 0px;
+	padding:3.0rem 0rem 3.0rem 0rem;
+}
+.aboutus-content-block  .marketing-block .container-full-width {
+	padding:30px 0px 30px 0px;
+	padding:3.0rem 0rem 3.0rem 0rem;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container {
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	width:100%;
+	height:100%;
+	padding-bottom:30px;
+	padding-bottom:3.0rem;
+	margin:0px;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-box {
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	width:620px;
+	width:62.0rem;
+	height:100%;
+	margin:0px;
+	padding:0px;
+	float:left;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-links {
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	width:320px;
+	width:32.0rem;
+	height:100%;
+	margin:0px 0px 0px 620px;
+	margin:0rem 0rem 0rem 62.0rem;
+	padding:0px;
+	background:transparent;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-box .content-box-row , .aboutus-content-block  .center-content .container-full-width .top-container .content-links .content-box-row{
+	width:inherit;
+	height:320px;
+	height:32.0rem;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	margin:0px;
+	padding:0px;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-box .content-box-row.row2, .aboutus-content-block  .center-content .container-full-width .top-container .content-links .content-box-row.row2 {
+	margin-top:20px;
+	margin-top:2.0rem;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-box  .content-box-row .box {
+	width:300px;
+	width:30.0rem;
+	height:inherit;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	margin:0px;
+	padding:20px;
+	padding:2.0rem;
+	background:rgb(245,245,245);
+	float:left;
+	border-radius:10px;
+	border-radius:1.0rem;
+	text-align:center;
+	position:relative;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-box  .content-box-row .box.box2-style, .aboutus-content-block  .center-content .container-full-width .top-container .content-links  .content-box-row .box.box2-style {
+	margin:0px 0px 0px 20px;
+	margin:0rem 0rem 0rem 2.0rem;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-box  .content-box-row .box h1{
+	font-family:tahoma;
+	color:rgb(55,51,48);
+	font-size:18px;
+	font-size:1.8rem;
+	font-weight:bold;
+	margin:0px;
+	padding:0px;
+	line-height:18px;
+	line-height:1.8rem;
+	letter-spacing:1px;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-box  .content-box-row .box img{
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	width:130px;
+	width:13.0rem;
+	height:130px;
+	height:13.0rem;
+	line-height:130px;
+	line-height:13.0rem;
+	vertical-align:middle;
+	margin:0px;
+	padding:0px;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-box  .content-box-row .box p{
+	font-family:tahoma;
+	color:rgb(55,51,48);
+	font-size:18px;
+	font-size:1.8rem;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+	line-height:20px;
+	line-height:2.0rem;
+}
+
+.aboutus-content-block  .center-content .container-full-width .top-container .content-box  .content-box-row .box p .xsysys_style {
+	font-family: century gothic, sans-serif;
+	font-size:20px;
+	font-size:2.0rem;
+	font-weight: normal;
+	text-shadow:1px -1px 1px rgb(0,0,0); 
+	text-shadow:1px -1px 1px rgba(0,0,0,0.5);
+}
+.ie .aboutus-content-block  .center-content .container-full-width .top-container .content-box  .content-box-row .box p .xsysys_style {
+	font-size:18px;
+	font-size:1.8rem;
+	font-weight: bold;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-box  .content-box-row .box a{
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	width:100px;
+	width:10.0rem;
+	height:42px;
+	height:4.2rem;
+	display:block;
+	text-decoration:none;
+	margin:0px;
+	padding:0px;
+	line-height:42px;
+	line-height:4.2rem;
+	text-align:center;
+	cursor:pointer;
+	position:absolute;
+	bottom:20px;
+	bottom:2.0rem;
+	left:100px;
+	left:10.0rem;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-box  .content-box-row .box a img{
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	width:100px;
+	width:10.0rem;
+	height:42px;
+	height:4.2rem;
+	display:block;
+	vertical-align:middle;
+	margin:0px;
+	padding:0px;
+	line-height:42px;
+	line-height:4.2rem;
+	text-align:center;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-links  .content-box-row .box {
+	width:300px;
+	width:30.0rem;
+	height:inherit;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	margin:0px 0px 0px 20px;
+	margin:0rem 0rem 0rem 2.0rem;
+	padding:40px 0px 40px 0px;
+	padding:4.0rem 0rem 4.0rem 0rem;
+	background:transparent;
+	text-align:left;
+	position:relative;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-links  .content-box-row .box h1{
+	font-family:tahoma;
+	color:rgb(55,51,48);
+	font-size:18px;
+	font-size:1.8rem;
+	font-weight:bold;
+	margin:0px 0px 20px	0px;
+	margin:0rem 0rem 2.0rem	0rem;
+	padding:0px;
+	padding:0rem;
+	line-height:18px;
+	line-height:1.8rem;
+	letter-spacing:1px;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-links  .content-box-row .box ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-links  .content-box-row .box ul li{
+	margin:0px;
+	padding:0px;
+	line-height:20px;
+	line-height:2.0rem;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-links  .content-box-row .box ul li a{
+	background-color:transparent;
+	background-image:url('../../images/xsysys-web-ui/link-btn.png');
+	background-attachment:scroll;
+	background-position:center left;
+	background-repeat:no-repeat;
+	font-family:tahoma;
+	color:rgb(55,51,48);
+	font-size:16px;
+	font-size:1.6rem;
+	font-weight:bold;
+	/*margin:0px 0px 0px 40px;*/
+	padding:10px 0px;
+	padding:1.0rem 0rem;
+	padding-left:40px;
+	padding-left:4.0rem;
+	display:inline-block;
+	text-decoration:none;
+	line-height:16px;
+	line-height:1.6rem;
+}
+.aboutus-content-block  .center-content .container-full-width .top-container .content-links  .content-box-row .box ul li a:hover{
+	color:#ab090c;
+	color:rgb(171,9,12);
+	background-color:transparent;
+	background-image:url('../../images/xsysys-web-ui/link-btn-active.png');
+	background-attachment:scroll;
+	background-position:center left;
+	background-repeat:no-repeat;
+}
+
+.aboutus-content-block  .content-desc .container-full-width .content-desc-block {
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	width:100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+}
+.aboutus-content-block  .content-desc .container-full-width .content-desc-block .desc-block1 {
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	width:100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+}
+.aboutus-content-block  .content-desc .container-full-width .content-desc-block .desc-block section {
+	display:none;
+}
+.aboutus-content-block  .content-desc .container-full-width .content-desc-block .desc-block section h1 {
+	font-family:tahoma;
+	color:rgb(55,51,48);
+	font-size:16px;
+	font-size:1.6rem;
+	font-weight:bold;
+	margin:0px 0px 20px	0px;
+	margin:0rem 0rem 2.0rem	0rem;
+	padding:0px;
+	padding:0rem;
+	line-height:16px;
+	line-height:1.6rem;
+	letter-spacing:1px;
+}
+.aboutus-content-block  .content-desc .container-full-width .content-desc-block .desc-block section p {
+	color: rgb(55, 51, 48);
+    font-family: tahoma;
+	font-size: 16px;
+    font-size: 1.6rem;
+    font-weight: normal;
+    letter-spacing: 1px;
+	line-height: 30px;
+    line-height: 3.0rem;
+	margin: 0px 0px 20px;
+    margin: 0rem 0rem 2.0rem;
+    padding: 0px;
+    text-align: justify;
+}
+.aboutus-content-block  .content-desc .container-full-width .content-desc-block .desc-block section p a {
+	color: rgb(55, 51, 48);
+	font-style:italic;
+	font-size:14px;
+	font-size:1.4rem;
+}
+.aboutus-content-block  .content-desc .container-full-width .content-desc-block .desc-block section p a:hover {
+	text-decoration:underline;
+	color: #ab090c;
+	color: rgb(171,9,12);
+	cursor:pointer;
+}
+.aboutus-content-block  .content-desc .container-full-width .content-desc-block .desc-block a.top-link {
+	margin:0px;
+	padding:0px;
+	height:26px;
+	height:2.6rem;
+	display:inline-block;
+	outline:none;
+	text-decoration:none;
+	text-align:left;
+	color:rgb(55,51,48);
+	font-size:16px;
+	font-size:1.6rem;
+	font-weight:bold;
+	font-family:tahoma;
+	cursor:pointer;
+	font-style:normal;
+}
+.aboutus-content-block  .content-desc .container-full-width .content-desc-block .desc-block a.top-link:hover{
+	color:#ab090c;
+	color:rgb(171,9,12);
+}
+.aboutus-content-block  .content-desc .container-full-width .content-desc-block .desc-block a.top-link img {
+	margin:0px;
+	padding:0px;
+	width:26px;
+	width:2.6rem;
+	height:26px;
+	height:2.6rem;
+	outline:none;
+	vertical-align:bottom;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block {
+	width:100%;
+	height:100%;
+	margin:0 auto;
+	padding:0px;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-full-box {
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0px;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	position:relative;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-full-box h1{
+	font-family:tahoma;
+	color:rgb(55,51,48);
+	font-size:30px;
+	font-size:3.0rem;
+	font-weight:bold;
+	margin:0px 0px 40px	0px;
+	margin:0rem 0rem 4.0rem	0rem;
+	padding:0px;
+	line-height:38px;
+	line-height:3.8rem;
+	letter-spacing:1px;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-full-box ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+	display:block;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-full-box ul li{
+	margin:0px;
+	padding:0px;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-full-box ul li a{
+	font-family:tahoma;
+	color:rgb(55,51,48);
+	font-size:24px;
+	font-size:2.4rem;
+	font-weight:normal;
+	margin:0px 0px 30px 0px;
+	margin:0rem 0rem 3.0rem 0rem;
+	padding:0px;
+	line-height:24px;
+	line-height:2.4rem;
+	display:block;
+	text-decoration:none;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-full-box ul li a span{
+	font-family:tahoma;
+	color:#ffffff;
+	font-size:24px;
+	font-size:2.4rem;
+	font-weight:bold;
+	padding:0px;
+	width:35px;
+	width:3.5rem;
+	height:35px;
+	height:3.5rem;
+	line-height:32px;
+	line-height:3.2rem;
+	display:inline-block;
+	background-color:rgb(250,211,0);
+	border-radius:5px;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	text-align:center;
+	margin:0px 30px 0px 0px;
+	margin:0rem 3.0rem 0rem 0rem;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-full-box ul li a:hover {
+	color:#ab090c;
+	color:rgb(171,9,12);
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-full-box ul li a:hover span {
+	background-color:rgb(255,185,0);
+	background-color:#ffb900;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-full-box #order {
+	width:100px;
+	width:10.0rem;
+	height:42px;
+	height:4.2rem;
+	line-height:42rem;
+	line-height:4.2rem;
+	text-decoration:none;
+	background:transparent;
+	outline:none;
+	margin:0px;
+	padding:0px;
+	position:absolute;
+	bottom:0px;
+	left:0px;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-full-box #order img {
+	width:100px;
+	width:10.0rem;
+	height:42px;
+	height:4.2rem;
+	line-height:42rem;
+	line-height:4.2rem;
+	vertical-align:baseline;
+	padding:0px;
+	margin:0px;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-adv-box {
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	width:300px;
+	width:30.0rem;
+	height:100%;
+	background-color:#ffffff;
+	border-radius:10px;
+	border-radius:1.0rem;
+	float:left;
+	margin-right:20px;
+	margin-right:2.0rem;
+	padding:0px;
+	position:relative;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-adv-box.adv-box1{
+	background-color:#ffffff;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-adv-box.adv-box2{
+	background-color:#ffffff;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-adv-box.adv-box3{
+	margin-right:0px;
+	background-color:#ffffff;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-adv-box .xsysys-adv-img-container {
+	width:100%;
+	height:149px;
+	height:14.9rem;
+	margin:0px;
+	padding:0px;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	position:relative;
+	top:0px;
+	left:0px;  
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-adv-box .xsysys-adv-img-container img {
+	width:inherit;
+	height:inherit;
+	vertical-align:middle;
+	text-align:center;
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	margin:0px;
+	padding:0px;
+}
+
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-adv-box .xsysys-adv-content {
+	background:transparent;
+	position:relative;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:234px;
+	height:-webkit-calc(100% - 149px);
+	height:-moz-calc(100% - 149px);
+	height:calc(100% - 149px);
+	height:-webkit-calc(100% - 14.9rem);
+	height:-moz-calc(100% - 14.9rem);
+	height:calc(100% - 14.9rem);
+	-moz-box-sizing:border-box;
+	     box-sizing:border-box;
+	padding:20px 20px 30px 20px;
+	padding:2.0rem 2.0rem 3.0rem 2.0rem;
+	text-align:center;
+}
+
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-adv-box .xsysys-adv-content h1{
+	font-family:tahoma;
+	color:rgb(55,51,48);
+	font-size:16px;
+	font-size:1.6rem;
+	font-weight:bold;
+	margin:0px 0px 20px	0px;
+	margin:0rem 0rem 2.0rem	0rem;
+	padding:0px;
+	line-height:16px;
+	line-height:1.6rem;
+	letter-spacing:1px;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-adv-box .xsysys-adv-content p{
+	font-family:tahoma;
+	color:rgb(55,51,48);
+	font-size:16px;
+	font-size:1.6rem;
+	font-weight:normal;
+	margin:0px 0px 20px 0px;
+	margin:0rem 0rem 2.0rem 0rem;
+	padding:0px;
+	line-height:20px;
+	line-height:2.0rem;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-adv-box .xsysys-adv-content p span{
+	font-family:tahoma;
+	color:rgb(55,51,48);
+	font-size:14px;
+	font-size:1.4rem;
+	font-weight:normal;
+	margin:0px 0px 20px 0px;
+	margin:0rem 0rem 2.0rem 0rem;
+	padding:0px;
+	line-height:18px;
+	line-height:1.8rem;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-adv-box .xsysys-adv-content a.links {
+	margin:0px;
+	padding:0px;
+	width:26px;
+	width:2.6rem;
+	height:26px;
+	height:2.6rem;
+	display:block;
+	outline:none;
+	position:absolute;
+	bottom:30px;
+	bottom:3.0rem;
+	left:137px;
+	left:13.7rem;
+	text-decoration:none;
+	text-align:center;
+}
+.aboutus-content-block  .marketing-block .container-full-width .xsysys-adv-block .xsysys-adv-box .xsysys-adv-content a.links img {
+	margin:0px;
+	padding:0px;
+	width:26px;
+	width:2.6rem;
+	height:26px;
+	height:2.6rem;
+	outline:none;
+}
